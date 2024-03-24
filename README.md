@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2> Hi, I'm Shounak! <img src="https://giphy.com/stickers/digital-god-digitalgod-DZQyphCCVVCCzTVaW1"</h2>
+
 <!--
 **Shounak-1998/Shounak-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
