@@ -14,6 +14,17 @@ Currently, I am working as application support for oracle utilities <br>
 ### Things I love:
 - I like travelling :train: 
 - And playing soccer :soccer:
+
+<a href="https://twitter.com/shounak_khulape">
+  <img align="left" alt="Priyanka's Twitter" src="https://img.icons8.com/?size=512&id=119014&format=png" width="60" height="60"/>
+</a>
+<a href="https://in.linkedin.com/in/shounak-khulape-94143a15a">
+  <img align="left" alt="Priyanka's LinkedIn" src="https://img.icons8.com/?size=512&id=118979&format=png" width="60" height="60"/>
+</a>
+<a href="mailto:shounakkhulape1998@gmail.com">
+  <img align="left" alt="Priyanka's Email" src="https://img.icons8.com/?size=512&id=Ros6Kw5sh4Wx&format=png" width="60" height="60"/>
+</a>
+
 <!--
 **Shounak-1998/Shounak-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
