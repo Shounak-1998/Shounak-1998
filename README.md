@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Shounak! <img src="https://giphy.com/stickers/digital-god-digitalgod-DZQyphCCVVCCzTVaW1"</h2>
+<h2> Hi, I'm Shounak! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZxZmd4MDR2MnM2bzFvam00NWdiMGNxeTB6bWN5NjdrZTNpNjg3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DZQyphCCVVCCzTVaW1/giphy.gif"</h2>
 
 <!--
 **Shounak-1998/Shounak-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
