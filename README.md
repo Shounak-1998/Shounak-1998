@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Shounak! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG14bjg3NTdvcjlhc29saGRpeTk2b21tdDV1NGlvZ250a2UyMG42bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.gif"</h2>
+<h2> Hi, I'm Shounak! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG14bjg3NTdvcjlhc29saGRpeTk2b21tdDV1NGlvZ250a2UyMG42bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.gif" width="50"></h2>
 
 <!--
 **Shounak-1998/Shounak-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
