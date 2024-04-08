@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2> Hi, I'm Shounak! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdjZmZjYTVna3JubDFyOGNzeTN1c3A4d3hqeGNrdGNkdnU1N2N6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9LwSYQz5jGpOyYr163/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU4aTZzM2NtcGFyYmhkN3U5dndseGIzdmlmY2tmcmVzcmtxcWJwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/umjnO4NQzxViBH5eZR/giphy.gif" width="230">
 
