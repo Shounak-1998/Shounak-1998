@@ -10,9 +10,11 @@ Currently, I am working as application support for oracle utilities <br>
 - 💬 Ask me about anything, if you need help or want to collaborate, I'm here! Let's connect! :smile:
 - 📬 How to reach me: [@Connect](https://forms.gle/AfWHFPu9inu2dMQs5)
 
-### Things I love:
-- I like travelling :train: 
-- And playing soccer :soccer:
+
+<h4>Besides work I love to :train: travel and play :soccer: soccer.</h4>
+
+- :writing_hand: [Blog](https://hashnode.com/@Shounak-1998)
+- :man_technologist: Tools: WebLogic, OAS, DevOps, Linux, AIX, Dynatrace, Oracle C2M, Oracle SQL.
 
 <a href="https://twitter.com/shounak_khulape">
   <img align="left" alt="Priyanka's Twitter" src="https://img.icons8.com/?size=512&id=119014&format=png" width="60" height="60"/>
